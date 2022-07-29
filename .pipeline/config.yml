@@ -31,5 +31,5 @@
           credentialsId: "cfdeply"
           appName: ""
         mtaDeployParameters: "-f --version-rule ALL"
-     artifactPrepareVersion:
+      artifactPrepareVersion:
         versioningType: "cloud_noTag"
